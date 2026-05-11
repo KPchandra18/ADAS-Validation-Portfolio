@@ -1,2 +1,2 @@
-# ADAS-Validation-Portfolio
-ADAS Integration Test Engineer Portfolio | 6-Month Mastery Journey
+#  Automotive Validation 
+Automotive Test Engineer Portfolio | 45 days journey
